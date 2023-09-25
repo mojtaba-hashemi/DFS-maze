@@ -1,3 +1,7 @@
+// Project Name: 	Maze
+// Project Author:	Mojtaba Hashemi
+// Modified Date:	Monday - 2023 25 September
+
 #include <iostream>
 #include <ctime>
 #include <windows.h>
@@ -7,8 +11,6 @@
 
 using namespace std;
 #define SIZE 21
-
-// THIS IS FOR BAGHER VOGOUFI -> MAZE PROJECT C++ -> MOJTABA HASHEMI
 
 // CELL STRUCTURE
 struct Cell {
