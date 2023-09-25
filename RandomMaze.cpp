@@ -4,3 +4,7 @@
 #include <conio.h>
 #include <stack>
 #include <fstream>
+
+using namespace std;
+#define SIZE 21
+
